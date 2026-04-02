@@ -18,7 +18,7 @@ from telegram import Bot
 # ENV VARIABLES (RAILWAY)
 # =========================
 TOKEN = os.getenv("8704948433:AAHuDzufWTXEvIpZyMirtb-_gxXdVVxbNiI")
-CHAT_ID = os.getenv("-")
+CHAT_ID = os.getenv("-1002497463613")
 
 bot = Bot(token=TOKEN)
 
