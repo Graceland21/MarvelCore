@@ -20,7 +20,7 @@ from telegram import Bot
 TOKEN = os.getenv("8704948433:AAHuDzufWTXEvIpZyMirtb-_gxXdVVxbNiI")
 CHAT_ID = os.getenv("-1002497463613")
 
-bot = Bot(token=TOKEN)
+bot = Bot(token=8704948433:AAHuDzufWTXEvIpZyMirtb-_gxXdVVxbNiI)
 
 # =========================
 # SETTINGS
